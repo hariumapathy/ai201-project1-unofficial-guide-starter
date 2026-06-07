@@ -1,0 +1,141 @@
+-- Document Metadata --
+Professor: Joe Chiu
+Department: Computer Science
+University: UMass Amherst
+Source URL: https://www.ratemyprofessors.com/professor/2420066
+-----------------------
+
+-- REVIEW START --
+Course: CS230
+Date: May 8th, 2026
+Quality: 3.0
+Difficulty: 3.0
+
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: A
+Textbook: Yes
+
+Review: Very fun projects, decent lectures, and easy exams. If you review the slides and/or videos and make a genuine effort to understand the content, the course is not that difficult.
+-- REVIEW END --
+
+-- REVIEW START --
+Course: COMPSCI230
+Date: May 7th, 2026
+Quality: 2.0
+Difficulty: 5.0
+
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: B
+Textbook: N/A
+
+Review: Very very kind professor, but not ideal as a teacher. His explanations were often confusing and one would leave the lecture more confused than they entered.
+Tags: Tough grader
+-- REVIEW END --
+
+-- REVIEW START --
+Course: COMPSCI230
+Date: Apr 7th, 2026
+Quality: 2.0
+Difficulty: 4.0
+
+For Credit: Yes
+Attendance: Not Mandatory
+Textbook: N/A
+
+Review: He is very nice but he is not good at explaining things clearly. His instruction made this class so much more difficult than it had to be. The lecture slides are mid at best and hard to understand without context. Go to labs and study the worksheets and Canvas quizzes for exams and you should be fine. There's also tons of office hours and SI.
+-- REVIEW END --
+
+-- REVIEW START --
+Course: COMPSCI230
+Date: Dec 28th, 2025
+Quality: 1.0
+Difficulty: 3.0
+
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A-
+Textbook: N/A
+
+Review: The concepts taught are not hard, but the class is structured to make it feel as hard as possible. Exams are fair. There are no reliable lecture notes. They look chaotic without context. And when you need to listen to lecture, he is pretty hard to understand. You want to learn, but you need to dig your way through. You're on your own, use YouTube.
+Tags: Lots of homework
+-- REVIEW END --
+
+-- REVIEW START --
+Course: COMPSCI230
+Date: Dec 17th, 2025
+Quality: 1.0
+Difficulty: 3.0
+
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: B+
+Textbook: N/A
+
+Review: Unorganized class, practice test was nothing like the final. Likes to ask super arbitrary things and is very difficult to understand. Homework had little guidance and his videos are useless.
+Tags: Tough grader
+-- REVIEW END --
+
+-- REVIEW START --
+Course: CS230
+Date: Jul 17th, 2025
+Quality: 1.0
+Difficulty: 5.0
+
+For Credit: Yes
+Attendance: Mandatory
+Grade: A-
+Textbook: N/A
+
+Review: avoid for your mental health
+Tags: Tough grader, Lots of homework
+-- REVIEW END --
+
+-- REVIEW START --
+Course: CS230
+Date: May 11th, 2025
+Quality: 5.0
+Difficulty: 3.0
+
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: B
+Textbook: Yes
+
+Review: This is also not Joe, Joe is the goat. The worksheets are helpful. Do the work and pass the class. Everyone says if you don't like Marius it's an intelligence issue, no way. If you don't like Joe that is an intelligence issue he genuinely teaches. Marius is essentially giving a podcast each lecture with a single slide the length of the book of John
+Tags: Tough grader, Lots of homework, Caring
+-- REVIEW END --
+
+-- REVIEW START --
+Course: COMPSCI230
+Date: Apr 27th, 2025
+Quality: 1.0
+Difficulty: 5.0
+
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A
+Textbook: N/A
+
+Review: worst class ever. do not take it with him. i'd rather switch majors than take this class if i were you right now. it's structured in the worst way any class could be structured. worst class at umass undergrad.
+Tags: Lots of homework
+-- REVIEW END --
+
+-- REVIEW START --
+Course: COMPSCI230
+Date: Dec 21st, 2024
+Quality: 1.0
+Difficulty: 3.0
+
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A
+Textbook: N/A
+
+Review: Joe Chiu is maybe the worst professor I've had at UMass. His teaching and course set up is decent at best, but his attitude is horrible. He seems to find joy and glee in rooting out academic dishonesty. Collaboration on projects (which is encouraged on the syllabus) is treated like a life sentence. Take 230 with anyone else.
+Tags: Tough grader
+-- REVIEW END --
+

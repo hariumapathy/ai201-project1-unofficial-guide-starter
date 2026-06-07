@@ -1,0 +1,72 @@
+
+Programming Methologies, Fall 2025
+Instructors:
+Jaime Davila
+Textbook:
+This course will not make use of a textbook. Materials will be provided electronically.
+Course goals:
+The goal of COMPSCI220 Programming Methodology is to turn you into an advanced programmer with a deep understanding of modern programming methodology. We will emphasize good software engineering skills, including programming abstractions, testing, and debugging. Although the programming language that we will use is JavaScript, we will emphasize general programming principles. Everything that you will learn in the class will be applicable to other modern languages, including (for example) C++, C#, D, Go, Java, Python, Rust, and Swift.
+
+As a successful student, by the end of this course, you will be able to::
+Write programs that use abstractions such as higher-order functions (for example: map, filter, and reduce), and object-oriented programming.
+Employ an accurate mental model of programming languages that support mutable state, assignable variables, objects, higher-order functions, and garbage collection, as well as understand fundamentals of their implementation.
+Design test cases to detect errors in code by applying systematic criteria, and write code predicates to validate the inputs and outputs of a potential solution to a programming problem.
+Select and use appropriate design patterns such as builders, fluent APIs, publish/subscribe, state, memento, and promises for handling errors.
+Reason about the correctness of code by establishing pre- and postconditions, and loop invariants.
+Prerequisites
+To succeed in COMPSCI 220, students should already understand:
+
+Loops
+Variables (declaration and scope)
+First-order functions
+Recursive functions with integer arguments
+A few algorithms and data structures including lists, trees, and recursion
+Course objectives
+Students who complete COMPSCI 220 understand the following topics:
+
+Programming with abstraction (higher-order functions, and object-oriented programming)
+Programming with recursively-defined data structures (e.g., trees and lists)
+An accurate mental model of programming languages that support mutable state, assignable variables, objects, higher-order functions, and garbage collection.
+Testing
+Given a problem statement and a solution in code, students can write 1) test cases that catch bugs in the solution; and 2) test cases that pass despite the presence of bugs.
+Property-based testing: given a problem statement in prose, students can write predicates in code to validate the inputs and outputs of a potential solution
+The use and extension of libraries in order to facilitate code development.
+Program correctness verification.
+Design patterns
+Higher-order list processing functions. For example, map, filter, and reduce.
+Handling errors without throwing exceptions. For example, the JavaScript Promise API
+Other commonly-used design patterns.
+Accommodations
+The University of Massachusetts Amherst is committed to making reasonable, effective and appropriate accommodations to meet the needs of students with disabilities and help create a barrier-free campus. If you have a documented disability on file with Disability Services, you may be eligible for reasonable accommodations in this course. If your disability requires an accommodation, please notify your instructors as early as possible in the course so that we may make arrangements in a timely manner.
+
+If you require any special services or accommodations during this course, you must register with Disability Services within the first two weeks of this course. This will give us time to plan accordingly to ensure that you get the help you need before it is too late. If you contact us after the two weeks we may not be able to provide you the help you need.
+
+Honesty Policy
+We will guide ourselves by the university’s academic honesty policy and guidelines for classroom civility. You must read both of these.
+
+Grade calculation (subject to change)
+Several factors determine your grade in this course. They are weighted approximately as follows:
+
+Component	Weight
+Projects: programming component	45%
+Mid-Term 1	15%
+Mid-Term 2	15%
+Final exam	20%
+Participation in Discussion Sessions	5%
+The exact grading scheme may be adjusted during the course. However, a typical breakdown of percentages and final grades for this course are A (93-100), A- (90-92), B+ (87-89), B (83-86), B- (80-82), C+ (77-79), C (73-76), C- (70-72), D+ (67-69), D (60-66), F (0-59).
+
+Topics (subject to change)
+Week	Topics
+1	Higher order functions, Introduction to JavaScript
+2	Unit testing
+3	First class functions, more higher order functions
+4	Higher order functions with data structures
+5	A mental model of JavaScript
+6	Property based testing
+7	A mental model of JavaScript part 2, object oriented programming
+8	The SOLID design principles
+9	Design patterns: Builders; Streams
+10	Asynchronous programming
+11	Error handling and promises.
+12	Proving program correctness; Design patterns: Visitors
+13	Objects vs. functions; Design patterns: Visitors

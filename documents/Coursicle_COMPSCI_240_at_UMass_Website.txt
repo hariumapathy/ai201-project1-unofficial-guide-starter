@@ -1,0 +1,40 @@
+COMPSCI at UMass
+COMPSCI 240 - Reasoning Under Uncertainty
+Professor Reviews
+Mark Wilson
+•
+2y
+First-year
+ENGIN
+I'm not even in Mark Wilson's lecture section, and I'm still feeling the effects of his recent addition to the 240 instruction team. He is clearly the primary reason for the restructuring of the course, and our exams have been terrible. I feel like an experiment on his "bright" new visions for the course. Avoid at all costs.
+Ben Marlin
+•
+3y
+Sophomore
+COMPSCI
+Marlin was not the greatest professor compared to the others at UMass. He usually had low expectations for the class and was very strict at times about homework. While he is probably the most organized professor on campus his attitude towards the class felt below par. I didn't feel like he enjoyed teaching the class and we could all tell.
+Read all 235 reviews of COMPSCI 240 
+Recent Professors
+Ghazaleh Parvini, Gayane Vardoyan, Andrew Lan, Mark Wilson, Peter Haas, Andrew Lee, Jie Xiong, Jie Haas, Shiting While, Nic Herndon, Sunghoon Lee
+ 
+Recent Semesters
+Fall 2025, Spring 2025, Fall 2024, Spring 2024, Fall 2023
+ 
+Class Size
+45-300
+ 
+Credits
+4
+Fall 2026 Sections
+View Fall 2026 sections of COMPSCI 240 
+🎥 Make TikToks for Coursicle
+We're paying $500/month to make videos about Coursicle, an app that actually helps students. Tap here to apply.
+ 
+Avg. Professor Rating
+38
+ 
+Description
+Development of mathematical reasoning skills for problems that involve uncertainty. Counting and probability -- basic counting problems, probability definitions, mean, variance, binomial distribution, discrete random variables, continuous random variables, Markov and Chebyshev bounds, Laws of large numbers, and central limit theorem. Probabilistic reasoning -- conditional probability and odds, Bayes' Law, Markov Chains, Bayesian Networks. Enrollment Requirements: Open to COMPSCI or CMPLING majors. Prerequisites: a grade of C or better in CICS 160 (previously INFO 190T), COMPSCI 187, or CICS 210 AND a grade of C or better in MATH 132. SEATS ARE BEING SAVED FOR INCOMING TRANSFER STUDENTS UNTIL THE END OF NEW STUDENT ORIENTATION AND TRANSFER (NSOT) ENROLLMENT PERIOD. REMAINING SEATS WILL BE RELEASED PRIOR TO CLASS START. STUDENTS NEEDING SPECIAL PERMISSION MUST REQUEST OVERRIDE VIA THE ON-LINE FORM: https://www.cics.umass.edu/academics/course-overrides.
+ 
+Usually Offered
+F (50 minutes), MW (1 hour 15 minutes)

@@ -1,0 +1,214 @@
+-- Document Metadata --
+Professor: Jaime Davila
+Department: Computer Science
+University: UMass Amherst
+Source URL: https://www.ratemyprofessors.com/professor/2596812
+-----------------------
+
+-- REVIEW START --
+Course: CS220
+Date: May 5th, 2026
+Quality: 4.0
+Difficulty: 4.0
+
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Yes
+Grade: A-
+Textbook: Yes
+
+Review: Phenomenal person, not quite phenomenal teacher, but up there. Very kind guy.
+-- REVIEW END --
+
+-- REVIEW START --
+Course: CS220
+Date: Nov 25th, 2025
+Quality: 5.0
+Difficulty: 2.0
+
+Would Take Again: Yes
+
+Review: Awesome professor and relatively easy grader. Take a course with him at least once during your time at UMass - you won't regret it.
+-- REVIEW END --
+
+-- REVIEW START --
+Course: COMPSCI345
+Date: Aug 31st, 2025
+Quality: 5.0
+Difficulty: 3.0
+
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Yes
+Grade: A
+
+Review: Professor Davila may have a strong accent but he is a very chill professor who is obviously devoted to student success and learning. He's always available with thorough answers to student questions and rewards genuine effort. Inspired by his CS345 class, I'm now pursuing data engineering. A+ professor!
+Tags: Amazing lectures, Inspirational, Caring
+-- REVIEW END --
+
+-- REVIEW START --
+Course: CICS160
+Date: Jun 3rd, 2025
+Quality: 5.0
+Difficulty: 2.0
+
+Would Take Again: Yes
+Grade: A
+
+Review: While the content of this class is rather boring, Professor Davila is very caring and always willing to help. The grade is mainly based on projects and quizzes. The projects are more than manageable and it's easy to do well on the quizzes if you look at the examples posted, as they're very similar to the ones given in labs.
+Tags: Caring, Accessible outside class
+-- REVIEW END --
+
+-- REVIEW START --
+Course: CS220
+Date: May 5th, 2025
+Quality: 4.0
+Difficulty: 4.0
+
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: A-
+Textbook: N/A
+
+Review: Great professor who made Marius' 220 more palatable. I took 220 when it was jointly taught by Prof Jaime and Marius. Jaime explained concepts super well so that they were clearer and was better at answering questions than Marius. Overall nice guy. Slightly hard to understand (accent).
+Tags: Clear grading criteria, Lots of homework, Lecture heavy
+-- REVIEW END --
+
+-- REVIEW START --
+Course: CICS160
+Date: Apr 28th, 2025
+Quality: 4.0
+Difficulty: 2.0
+
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: A
+Textbook: N/A
+
+Review: The class is easy and Professor Davila is always willing to help. His style of teaching is quite boring and confusing, but tbh, it's CS. He's friendly and sometimes introduces some opportunities that you might like.
+Tags: Caring, Accessible outside class
+-- REVIEW END --
+
+-- REVIEW START --
+Course: CICS160
+Date: Apr 13th, 2025
+Quality: 5.0
+Difficulty: 2.0
+
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A
+Textbook: N/A
+
+Review: Jaime is a good prof but this class is incredibly useless and you will learn nothing. Also the homeworks have a manually graded part yet he won't really tell you what he's exactly looking for. Quizzes aren't too bad but the labs are useless and outside of basic recursion, SOLID, and making classes you will probably never need to use this again.
+-- REVIEW END --
+
+-- REVIEW START --
+Course: CICS160
+Date: Mar 31st, 2025
+Quality: 2.0
+Difficulty: 3.0
+
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: B
+Textbook: N/A
+
+Review: Attendance not mandatory, don't bother going. Watched lectures on 2x speed and lots of long, unnecessary tangents. Grading comprised of Labs and projects (no exams), so that's a plus, but really wish they didn't waste time reviewing Python and spent more time on Java -- they kind of throw you in to it halfway through with no intro on the syntax.
+-- REVIEW END --
+
+-- REVIEW START --
+Course: CICS160
+Date: Feb 2nd, 2025
+Quality: 4.0
+Difficulty: 2.0
+
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: A
+Textbook: Yes
+
+Review: Prof did a nice job explaining material in lectures. When I took the course, there were no exams; only quizzes composing 30 percent of grade. Only "complaint" is that there were several times where I had to make regrade requests on the quizzes for major point deductions which didn't seem justified. Luckily, they were rectified shortly thereafter.
+-- REVIEW END --
+
+-- REVIEW START --
+Course: CS220
+Date: Jan 31st, 2025
+Quality: 4.0
+Difficulty: 2.0
+
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: A
+Textbook: N/A
+
+Review: He's a good lecturer, but I did not connect fully with his teaching style. Maybe it was just the size of the lecture hall. I am generally supportive of his changes from the Marius 220, particularly teaching Git. Exams were easy as well, and he and the course staff are quite available for questions.
+Tags: Group projects, Clear grading criteria, Online Savvy
+-- REVIEW END --
+
+-- REVIEW START --
+Course: CICS160
+Date: Dec 14th, 2024
+Quality: 4.0
+Difficulty: 1.0
+
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: A
+Textbook: N/A
+
+Review: Jaime made sure to explain things clearly and he is a nice guy. The only reason I'm not giving a 5 is because this class moved very slowly and I wish I learned more than I did.
+-- REVIEW END --
+
+-- REVIEW START --
+Course: CS220
+Date: May 18th, 2024
+Quality: 5.0
+Difficulty: 3.0
+
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: A-
+Textbook: N/A
+
+Review: Awesome guy, very dedicated to teaching you what you need to know. Lectures can sometimes drag on, but he really knows his stuff and if you pay attention you'll pick up on a thing or two. Had SUPER reasonable and actually not that difficult midterms, but the final was a nightmare. Would take again with him, he makes the class reasonable.
+Tags: EXTRA CREDIT, Amazing lectures, Clear grading criteria
+-- REVIEW END --
+
+-- REVIEW START --
+Course: CS220
+Date: May 12th, 2024
+Quality: 5.0
+Difficulty: 3.0
+
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: A
+Textbook: N/A
+
+Review: Jaime is such an amazing professor and also very sweet. Sometimes his lectures wouldn't sense but he always clarified any questions. He's approachable and cares about his students. If you can, you should take him 100%!
+Tags: Amazing lectures, Inspirational, Caring
+-- REVIEW END --
+
+-- REVIEW START --
+Course: CS220
+Date: Mar 6th, 2024
+Quality: 5.0
+Difficulty: 3.0
+
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: Not sure yet
+Textbook: N/A
+
+Review: honestly an amazing professor, he is so much better for cs220 than marius. the tests are not weighted as much so its a lot less stressful and when i got sick before a midterm he let me reschedule without any worry or stress, which i really appreciated. he is a great guy and knows what hes talking about !
+Tags: Lots of homework, Caring, Respected
+-- REVIEW END --

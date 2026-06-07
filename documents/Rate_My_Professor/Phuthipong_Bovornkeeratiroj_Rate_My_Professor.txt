@@ -1,0 +1,100 @@
+-- Document Metadata --
+Professor: Phuthipong Bovornkeeratiroj
+Department: Computer Science
+University: UMass Amherst
+Source URL: https://www.ratemyprofessors.com/professor/2992114
+-----------------------
+
+-- REVIEW START --
+Course: CS230
+Date: May 25th, 2026
+Quality: 5.0
+Difficulty: 3.0
+
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: A
+Textbook: N/A
+
+Review: He is an amazing professor. I really enjoyed his lectures and I felt that he broke down material in a way that was palatable even for people that don't know much about computer systems. He is responsive on email and Ed. Class is overall very generously graded and he provided a lot of extra credit.
+-- REVIEW END --
+
+-- REVIEW START --
+Course: CS230
+Date: Dec 28th, 2025
+Quality: 4.0
+Difficulty: 3.0
+
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: A-
+Textbook: N/A
+
+Review: The sweetest professor I have had. That being said, his lectures simplified the course material too much, making it so that I had to self-teach a certain amount.
+Tags: Caring, Respected, Test heavy
+-- REVIEW END --
+
+-- REVIEW START --
+Course: CS377
+Date: Dec 16th, 2025
+Quality: 5.0
+Difficulty: 2.0
+
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: A
+Textbook: Yes
+
+Review: Nikko's lectures were fun and engaging, there were many opportunities for extra credit, and the "4 picks 2" policy made getting an A very comfortable and achievable. The textbook is wonderful and freely published online, the projects were all relevant and instructive, and the final was very fair. A great experience and I learned a lot.
+Tags: EXTRA CREDIT, Hilarious, Caring
+-- REVIEW END --
+
+-- REVIEW START --
+Course: CS230
+Date: Dec 15th, 2025
+Quality: 5.0
+Difficulty: 3.0
+
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: A+
+Textbook: N/A
+
+Review: By far the most authentically caring and nice professor I've met. He made his lectures very fun and when I did go to class it was just for the good vibes. Not everyone (myself included) is a big fan of systems, but the labs and homework aren't toooo bad if your C is strong. The exams were very fair and I was able to self study pretty successfully.
+Tags: Amazing lectures, Inspirational, Caring
+-- REVIEW END --
+
+-- REVIEW START --
+Course: CS230
+Date: Dec 3rd, 2025
+Quality: 5.0
+Difficulty: 3.0
+
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: A+
+Textbook: N/A
+
+Review: The most genuine and caring professor ever. Nikko makes this course more interesting and fun by adding some animations and memes to the lecture slides. Really approachable and always care about our well-being. He makes the process of learning low-level programming a bit more enjoyable. If you're looking to take 230, definitely take with Nikko
+-- REVIEW END --
+
+-- REVIEW START --
+Course: CS230
+Date: May 16th, 2025
+Quality: 3.0
+Difficulty: 3.0
+
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: A-
+Textbook: N/A
+
+Review: Nikko is an extremely personable and genuine guy. I liked how he incorporated memes into his slides and tried to dumb the content down, but I felt like the lectures were not really that engaging. The project documentation isn't great. The exams are generously graded. I don't like that the only extra credit relied on other ppl to answer survey.
+-- REVIEW END --
+

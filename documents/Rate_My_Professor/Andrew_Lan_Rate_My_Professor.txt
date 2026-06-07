@@ -1,0 +1,153 @@
+-- Document Metadata --
+Professor: Andrew Lan
+Department: Computer Science
+University: UMass Amherst
+Source URL: https://www.ratemyprofessors.com/professor/2445013
+-----------------------
+
+-- REVIEW START --
+Course: CS240
+Date: Jan 21st, 2026
+Quality: 2.0
+Difficulty: 5.0
+
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A-
+Textbook: Yes
+
+Review: This class is dense despite Lan's dry and slow lectures. I had to put in an enormous effort into this course, and I had previously taken STAT315. Lan doesn't seem to care about the material and was the opposite of inspiring. The midterm was ridiculously hard and the homework grading is unforgiving. Not enough resources available to prepare.
+Tags: Lots of homework, Test heavy
+-- REVIEW END --
+
+-- REVIEW START --
+Course: CS240
+Date: Dec 31st, 2025
+Quality: 5.0
+Difficulty: 4.0
+
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: A
+Textbook: Yes
+
+Review: Lectures were a bit dense, but discussions, homework, and quizzes helped reinforce material. The midterm was quite difficult, but the final was very reasonable. In addition, there was a very generous curve and extra credit provided. Almost 70% of the class received a B+ or better. Overall, I would say that he is the best of the CS 240 professors.
+Tags: Tough grader, EXTRA CREDIT, Lecture heavy
+-- REVIEW END --
+
+-- REVIEW START --
+Course: CS240
+Date: Dec 19th, 2025
+Quality: 4.0
+Difficulty: 3.0
+
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: A
+Textbook: N/A
+
+Review: I think a math heavy course like CS 240 would be a lot better in small sections compared to large lectures. Still, I found Professor Lan to be quite solid. Although lectures can get quite dense somewhat monotonous, he's actually a pretty funny guy. He curves by standing(quite generously) and is still by far the better professor to take 240 with.
+Tags: Lecture heavy, Test heavy, Graded by few things
+-- REVIEW END --
+
+-- REVIEW START --
+Course: CS240
+Date: Dec 17th, 2025
+Quality: 1.0
+Difficulty: 5.0
+
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: Not sure yet
+Textbook: N/A
+
+Review: Terrible decision to make the midterm THAT much harder. The class average on it being abysmal speaks volumes. Course has been well taught and managed in the previous years, but the midterm's difficulty this time around was completely unfair and a horrible mismatch to any past exams we were given to help prepare.
+Tags: Lots of homework, Test heavy, Graded by few things
+-- REVIEW END --
+
+-- REVIEW START --
+Course: CS240
+Date: Dec 17th, 2025
+Quality: 1.0
+Difficulty: 4.0
+
+For Credit: Yes
+Attendance: Not Mandatory
+Textbook: N/A
+
+Review: His lecture is boring and harder than it needs to be.
+-- REVIEW END --
+
+-- REVIEW START --
+Course: CS240
+Date: Dec 16th, 2025
+Quality: 1.0
+Difficulty: 5.0
+
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: Incomplete
+Textbook: N/A
+
+Review: Lan revamped the class to make everything way harder than it needs to be. Midterm median was a 60. Although there is a curve, don't count on it. Everything in this course is quite hard and there are not adequate resources to prepare. Take this class with Parvini.
+Tags: Tough grader
+-- REVIEW END --
+
+-- REVIEW START --
+Course: CS240
+Date: Dec 14th, 2025
+Quality: 1.0
+Difficulty: 5.0
+
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: Not sure yet
+
+Review: Andrew Lan's section covers strictly more material than Parvini's. The midterm was also significantly harder than past semesters, making practice materials useless. Lectures are dry, and assignments are just PDFs/Canvas quizzes, leaving no room for error and forcing you to compare answers. The only highlights are his humor and a generous curve.
+-- REVIEW END --
+
+-- REVIEW START --
+Course: CS240
+Date: Dec 9th, 2025
+Quality: 1.0
+Difficulty: 3.0
+
+For Credit: Yes
+Attendance: Not Mandatory
+Textbook: N/A
+
+Review: One of the most boring and monotonous lecturer I have ever encountered at this school. It seems like he is not even interested or passionate about teaching the class. How can someone make such an interesting topic like probability so boring to its core.
+-- REVIEW END --
+
+-- REVIEW START --
+Course: COMPSCI240
+Date: Jun 8th, 2024
+Quality: 5.0
+Difficulty: 3.0
+
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: Rather not say
+Textbook: N/A
+
+Review: This guy is a savior for CS students who want to avoid Wilson for CS240. If you can take 240 with Lan, go for it! Exams were reasonable as they were very similar to the practice exams, and lectures were clear and relatively simple for what otherwise might be difficult concepts.
+Tags: Amazing lectures, Test heavy
+-- REVIEW END --
+
+-- REVIEW START --
+Course: COMPSCI240
+Date: May 26th, 2023
+Quality: 2.0
+Difficulty: 2.0
+
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A+
+Textbook: Yes
+
+Review: Decent professor. Rather dry lectures but made the exam super easy, so there is not much to complain about. I wouldn't take him as a professor again since he seems so unpassionate and unrelatable as a professor-- especially for a higher-level class. Ultimately, not a terrible professor if you have to take him but pick someone else if you can.
+Tags: Clear grading criteria
+-- REVIEW END --

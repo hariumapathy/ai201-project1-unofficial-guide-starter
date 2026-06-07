@@ -1,0 +1,243 @@
+-- Document Metadata --
+Professor: Mordecai Golin
+Department: Computer Science
+University: UMass Amherst
+Source URL: https://www.ratemyprofessors.com/professor/2940693
+-----------------------
+
+-- REVIEW START --
+Course: CS250
+Date: Jun 1st, 2026
+Quality: 5.0
+Difficulty: 3.0
+
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Yes
+Grade: A
+Textbook: Yes
+
+Review: Great teacher that cares about students and cares about them understanding material. He is accessible and the tests always match what is taught in class (though the final was a bit rough). Would recommend and I hear Barrington is also good. Lots of long homework but doing it pays off.
+Tags: Amazing lectures, Lots of homework
+-- REVIEW END --
+
+-- REVIEW START --
+Course: CICS210
+Date: Mar 19th, 2026
+Quality: 5.0
+Difficulty: 4.0
+
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: Rather not say
+Textbook: N/A
+
+Review: one of the best to do it
+Tags: Amazing lectures, Lots of homework, Test heavy
+-- REVIEW END --
+
+-- REVIEW START --
+Course: CICS210
+Date: Feb 3rd, 2026
+Quality: 5.0
+Difficulty: 3.0
+
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: A
+Textbook: N/A
+
+Review: Professor Golin's lectures were really well organized and clear. It was easy to follow along and I rarely felt unclear about anything, but when I did he answered my questions thoroughly. The projects were fun but a little challenging towards the end; as long as you manage your time on them you should do great in the class.
+Tags: Amazing lectures, Clear grading criteria, Respected
+-- REVIEW END --
+
+-- REVIEW START --
+Course: CICS210
+Date: Jan 13th, 2026
+Quality: 5.0
+Difficulty: 3.0
+
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: A
+Textbook: Yes
+
+Review: Lectures were great and involved slides instead of live coding and were very comprehensive. Exams were not too hard and are basically the quizzes that were taken during the lab sections. Overall great course.
+Tags: Clear grading criteria, Gives good feedback, Respected
+-- REVIEW END --
+
+-- REVIEW START --
+Course: CS250
+Date: Dec 28th, 2025
+Quality: 5.0
+Difficulty: 3.0
+
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Yes
+Grade: B
+Textbook: Yes
+
+Review: I went to Mordecai's lectures because I couldn't follow Barrington, and I felt he explained concepts in a way that was easier to follow. He is also really helpful one-on-one if you go to his OH, as he will explain things in many different ways until you understand. Discussions, projects, and tests are all pretty hard, so he is a good resource.
+Tags: Gives good feedback, Accessible outside class
+-- REVIEW END --
+
+Here is the formatted review:
+
+-- REVIEW START --
+Course: CICS210
+Date: Dec 27th, 2025
+Quality: 3.0
+Difficulty: 1.0
+
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: A
+Textbook: N/A
+
+Review: I found the lectures to be incredibly boring/overcomplicated and they weren't much help for me. However one thing Mordecai did really well was provide study guides that told you EXACTLY what you needed and didn't need to know for every quiz and exam which made the class very easy.
+Tags: Clear grading criteria
+-- REVIEW END --
+
+-- REVIEW START --
+Course: CS250
+Date: Dec 16th, 2025
+Quality: 5.0
+Difficulty: 3.0
+
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Yes
+Grade: A
+Textbook: Yes
+
+Review: Mordecai is a very clear lecturer and quite accessible after and outside of class. He clearly cares about his students' success and the grading on exams and homework assignments has a very fair curve. Attendance is taken with ClassQuestion. Expect to spend a lot of time on the homework, it's a property of the course, not the instructor.
+Tags: Lots of homework, Caring, Lecture heavy
+-- REVIEW END --
+
+-- REVIEW START --
+Course: CS250
+Date: Dec 10th, 2025
+Quality: 5.0
+Difficulty: 2.0
+
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Yes
+Grade: A
+Textbook: N/A
+
+Review: His lectures are super clear. definitely take him. A lot of people say this class is really hard, but honestly I think it's just the workload. The grading for both homework and exams has a lot of extra credit, so it's not that hard to get a good grade.
+Tags: Amazing lectures, Caring
+-- REVIEW END --
+
+-- REVIEW START --
+Course: CS250
+Date: May 20th, 2025
+Quality: 5.0
+Difficulty: 4.0
+
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Yes
+Grade: A
+Textbook: Yes
+
+Review: I love Mordecai. 250 is a difficult course but it's my favorite I've taken at UMass, all thanks to him. His lectures are clear, well-paced, and relevant to the homework/exams. The tests in this class are quite straightforward, just start homework early and ask for help when stuck. Definitely take him instead of Barrington, or just go to his lecture
+Tags: Amazing lectures, Lots of homework, Hilarious
+-- REVIEW END --
+
+-- REVIEW START --
+Course: CS250
+Date: May 13th, 2025
+Quality: 4.0
+Difficulty: 5.0
+
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Yes
+Textbook: Yes
+
+Review: I have no gripes with this guy. Class sucks a ton though.
+-- REVIEW END --
+
+-- REVIEW START --
+Course: CICS210
+Date: May 11th, 2025
+Quality: 5.0
+Difficulty: 2.0
+
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: A
+Textbook: N/A
+
+Review: Professor Mordecai is a good DSA professor. His lectures and slides are well organized. The slides are really informative, but the lecture is a little slow-paced. He does not post any past exams, but his study guide contains all the content you need to know for the exams and quizzes. He is also really accessible via email.
+Tags: Clear grading criteria, Caring, Accessible outside class
+-- REVIEW END --
+
+-- REVIEW START --
+Course: CS250
+Date: Mar 31st, 2025
+Quality: 4.0
+Difficulty: 4.0
+
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Yes
+Textbook: Yes
+
+Review: The homework is a LOT and the material is not always the easiest, but he does a good job teaching the content. The lectures can feel a bit unfocused on occasion but they're usually well delivered and informative. Ultimately he does a very good job teaching, and the hard part of the class is the workload rather than understanding his lectures.
+Tags: Lots of homework
+-- REVIEW END --
+
+-- REVIEW START --
+Course: CS250
+Date: Feb 2nd, 2025
+Quality: 4.0
+Difficulty: 4.0
+
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Yes
+Grade: B+
+Textbook: Yes
+
+Review: Professor Golin is a genuine, helpful person. The lectures were very faced paced and can seem intimidating. To prepare for exams, review previous year's exams (this year's were almost identical to last year's). If you do not have a group for the homework assignments, it's going to be rough. Overall, very time consuming course but interesting.
+-- REVIEW END --
+
+-- REVIEW START --
+Course: CS250
+Date: Dec 11th, 2024
+Quality: 5.0
+Difficulty: 2.0
+
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Yes
+Textbook: Yes
+
+Review: Difficult material but very rewarding if put in the work. Start the homework as soon as possible. I made a huge mistake waiting til last day of first homework and was traumatized grinding 12+ hours of heavy theory. Attendance is mandatory through an online iclicker. This course brought back some of my lost passion for math.
+Tags: EXTRA CREDIT, Lots of homework, Caring
+-- REVIEW END --
+
+-- REVIEW START --
+Course: CS250
+Date: May 13th, 2024
+Quality: 4.0
+Difficulty: 3.0
+
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Yes
+Grade: A
+Textbook: Yes
+
+Review: not instructor specific, 250 this semester was taught together with barrington. both classes had the same HW and exams. lectures were also pretty similar, you get to attend either for attendence purposes. my advice overall is honestly just to go to SI sessions to learn the material and go to tutoring for the HW. the extra credit on HW does wonders.
+Tags: Caring, Lecture heavy, Test heavy
+-- REVIEW END --

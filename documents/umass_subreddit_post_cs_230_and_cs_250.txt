@@ -1,0 +1,37 @@
+-- Document Metadata --
+URL: https://www.reddit.com/r/umass/comments/1orfe6z/cs_230_and_250/
+Subreddit: r/umass
+Post Title: cs 230 and 250
+-----------------------
+
+-- POST START --
+cs 230 and 250
+i am a freshman who took 210 this semester, i am thinking of taking 230 and 250 next semester since a peer mentor told me not to go for 220 because of a certain professor. would that be too much along with math 235? has anyone take 230 with Meng-Chieh Chiu or Nikko Bovornkeeratiroj?
+-- POST END --
+
+
+-- COMMENT START --
+I'm taking cs230 with Joe Chiu. Its a good class, his accent can be a bit difficult at times, but you can ask him to repeat or go slower. It's also meant to work either synchronous or asynchronous, so you don't need to attend, even for labs. They also have Ed for questions and whatnot. Nikko is new this semester, but I've heard he's also good.
+
+Don't procrastinate on the homeworks though. For 230, but especially for cs250. For 250, they take on the lower side around 4 hours at least. And if you want the extra credit for LaTeX formatting, that'll take some extra time. They give you one week for a reason.
+
+I personally don't think it would be too difficult taking all three together. I'm currently struggling, but that's mainly because I overloaded to take an extra higher level math course which turned out to be a lot harder than I anticipated. But I think doing cs230, cs250, math235 is fine, probably with some gen eds as well or whatnot.
+
+I think actually they are reducing the math235 curriculum over time. I remember I think a few years back they had Quotient spaces and Diagonalization on the exam, but I don't think quotient spaces are part of the curriculum and I think diagonalization is just an additional topic they add but isn't on the exam anymore.
+
+Edit: Though a prereq for cs230 is cs198c, so make sure you've taken that prior.
+-- COMMENT END --
+
+-- REPLY START -- 
+is joe chiu, meng chiu? sorry i was just a little confused 😭 also do u think i should take 220 240 instead rn regardless of marius teaching it?
+-- REPLY END --
+
+-- REPLY START --
+yeah, he goes by joe chiu I think.
+
+I don't know, I'm taking those next semester. Marius is hard but he's also really good. Don't be stupid and he won't get angry at you, and you will learn a lot.
+-- REPLY END --
+
+-- COMMENT START --
+Marius is a good prof; his exams are just a bit harder.
+-- COMMENT END --
