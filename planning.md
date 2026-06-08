@@ -144,7 +144,7 @@ flowchart LR
     B --> C["Embedding\nall-MiniLM-L6-v2"]
     C --> D["Vector Store\nChromaDB"]
     D --> E["Retrieval\nChromaDB Query"]
-    E --> F["Generation\nGroq API with llama-3.3-70b-versatile"]
+    E --> F["Generation\nGroq API with llama-3.3-70b-versatile \n Gradio UI"]
 ```
 
 

@@ -1,4 +1,7 @@
 import os
+from dotenv import load_dotenv
+
+load_dotenv()
 
 # -- ingest_and_chunk --
 DOCS_PATH = "documents"
@@ -15,3 +18,5 @@ CHROMA_PATH = "./chroma_db"
 
 TOP_K_RESULTS = 5
 
+# -- llm_response_generation --
+GROQ_MODEL = "llama-3.3-70b-versatile"
