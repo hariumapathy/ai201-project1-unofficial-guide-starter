@@ -66,7 +66,7 @@ I will apply a different chunking strategy to each category.
 
 
 #### Other Documents
-Use fixed size chunking, with a reasoanble chunk size and overlap to account for the sentence and paragraph structure of course pages and comment threads.
+Use fixed size chunking, with a reasonable chunk size and overlap to account for the sentence and paragraph structure of course pages and comment threads.
 
 **Chunk size: ** 500 characters
 

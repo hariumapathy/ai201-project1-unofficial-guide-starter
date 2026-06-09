@@ -21,6 +21,17 @@ def chat(query) -> str:
         return ""
     retrieved_chunks = retrieve(query)
     llm_response = generate_response(query, retrieved_chunks)
+
+    # For evaluation - print query, retrieved chunks, and LLM response
+    print(f"\n--- QUERY: {query} ---\n")
+    print(f'\n--- START OF RETRIEVED CHUNKS -- \n')
+    for c in retrieved_chunks:
+        print(f"[dist: {c['distance']:.3f}] (source: {c['filename']})\n {c['text']}\n")
+    print(f'\n--- END OF RETRIEVED CHUNKS ---\n')
+    print(f"\n--- START OF LLM RESPONSE ---\n")
+    print(llm_response)
+    print(f"\n--- END OF LLM RESPONSE ---\n")
+
     return llm_response
 
 

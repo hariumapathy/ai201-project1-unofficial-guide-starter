@@ -164,11 +164,12 @@ def chunk_documents(documents):
 # ---------------------------------------------------------------------------
 
 if __name__ == "__main__":
+    import random
     docs = load_documents()
     chunks = chunk_documents(docs)
 
     with open("chunks_output.txt", "w", encoding="utf-8") as f:
-        for chunk in chunks:
+        for chunk in random.sample(chunks, 5):
             f.write(f"[{chunk['chunk_id']}] (source: {chunk['filename']})\n")
             f.write(chunk["text"])
             f.write("\n---\n\n")
